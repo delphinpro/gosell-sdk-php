@@ -1,5 +1,6 @@
 {
     "name": "tappayments/gosell",
+    "version": "2.0",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
